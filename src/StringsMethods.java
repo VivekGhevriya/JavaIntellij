@@ -3,6 +3,13 @@ import java.util.Locale;
 
 public class StringsMethods {
     public static void main(String[] args) {
+        MethodPractice.greeting("vi");
+//        MethodPractice n= new MethodPractice("Vivek","Science",27);
+//        n.studentDetails();
+
+
+
+
 //
 //
 //            equals() Method
@@ -32,8 +39,9 @@ public class StringsMethods {
 
 //                startsWith()  & endswith()
 
-        String name1="I am learning Java";
-        System.out.println(name1.startsWith("I",0));
-        System.out.println(name1.endsWith("l"));
+//        String name1="I am learning Java";
+//        System.out.println(name1.startsWith("I",0));
+//        System.out.println(name1.endsWith("l"));
     }
+
 }
