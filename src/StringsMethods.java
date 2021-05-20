@@ -3,14 +3,6 @@ import java.util.Locale;
 
 public class StringsMethods {
     public static void main(String[] args) {
-        MethodPractice.greeting("vi");
-//        MethodPractice n= new MethodPractice("Vivek","Science",27);
-//        n.studentDetails();
-
-
-
-
-//
 //
 //            equals() Method
 //        String names = "vivek";
@@ -37,11 +29,20 @@ public class StringsMethods {
 //        System.out.println(name1.contains("Java"));
 
 
-//                startsWith()  & endswith()
+        //      startsWith()  & endswith()
 
 //        String name1="I am learning Java";
 //        System.out.println(name1.startsWith("I",0));
 //        System.out.println(name1.endsWith("l"));
+
+
+
+            //        Split() method
+        String practice= "Hello I am learning java and it is fun to code";
+        String [] words=practice.split(" ");
+        for(String w:words){
+            System.out.println(w);
+        }
     }
 
 }

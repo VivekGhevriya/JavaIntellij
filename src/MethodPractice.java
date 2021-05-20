@@ -2,6 +2,7 @@
 
      static void greeting(String name){
          System.out.println("Hello" +" "+ name);
+         System.out.println("hello jenkins");
 //    private String name;
 //    private String major;
 //    private int age;
