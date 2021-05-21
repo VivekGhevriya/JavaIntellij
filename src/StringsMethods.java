@@ -3,6 +3,7 @@ import java.util.Locale;
 
 public class StringsMethods {
     public static void main(String[] args) {
+        System.out.println("hii");
 //
 //            equals() Method
 //        String names = "vivek";
