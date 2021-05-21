@@ -1,8 +1,8 @@
- public class MethodPractice {
+// public class MethodPractice {
 
-     static void greeting(String name){
-         System.out.println("Hello" +" "+ name);
-         System.out.println("hello jenkins");
+//     static void main(String name){
+//         System.out.println("Hello" +" "+ name);
+//         System.out.println("hello jenkins");
 //    private String name;
 //    private String major;
 //    private int age;
@@ -28,7 +28,7 @@
 
 
 
-     }
-
-
-}
+//     }
+//
+//
+//}
